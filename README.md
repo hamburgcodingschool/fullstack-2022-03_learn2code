@@ -4,7 +4,7 @@
 
 ### ✏️ Homework
 
-- Homework will be posted here
+- [Lesson 2](homework/lesson_2.md)
 
 ### 📄 Docs
 
