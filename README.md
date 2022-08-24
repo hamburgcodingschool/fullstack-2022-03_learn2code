@@ -7,6 +7,7 @@
 - [Lesson 2](homework/lesson_2.md)
 - [Lesson 3](homework/lesson_3.md)
 - [Lesson 4](homework/lesson_4.md)
+- [Lesson 5](homework/lesson_5.md)
 
 ### 📄 Docs
 
