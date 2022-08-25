@@ -11,11 +11,7 @@
 
 ### 📄 Docs
 
-- [Lesson Summary](https://...)
-
-- [Handout](https://...)
-
-- [Outline](https://...)
+- [Some notes about functions](docs/functions.md)
 
 ### 🤔 Questions?
 
