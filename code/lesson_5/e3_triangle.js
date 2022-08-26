@@ -7,7 +7,7 @@
 //   // ***
 // }
 
-function triangle(size) {
+function triangle(size, slope) {
   for (let y = 0; y < size; y++) {
     let output = "";
     for (let x = 0; x < y + 1; x++) {
@@ -16,5 +16,3 @@ function triangle(size) {
     console.log(output);
   }
 }
-
-triangle(4);
