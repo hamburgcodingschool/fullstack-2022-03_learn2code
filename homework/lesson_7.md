@@ -1,4 +1,4 @@
-# Let's guess some captial puns
+# Let's guess some capital puns
 
 In [hangman.js](../code/lesson_7/hangman.js) you can find the state of our hangman game before we finished the session.
 
